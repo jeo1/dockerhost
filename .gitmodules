@@ -1,0 +1,30 @@
+[submodule "docker-qbittorrent"]
+	path = docker-qbittorrent
+	url = https://github.com/jeo1/docker-qbittorrent.git
+[submodule "docker-jellyfin"]
+	path = docker-jellyfin
+	url = https://github.com/jeo1/docker-jellyfin.git
+[submodule "docker-plex"]
+	path = docker-plex
+	url = https://github.com/jeo1/docker-plex.git
+[submodule "docker-audiobooks"]
+	path = docker-audiobooks
+	url = https://github.com/jeo1/docker-audiobooks.git
+[submodule "docker-tautulli"]
+	path = docker-tautulli
+	url = https://github.com/jeo1/docker-tautulli.git
+[submodule "docker-readarr"]
+	path = docker-readarr
+	url = https://github.com/jeo1/docker-readarr.git
+[submodule "docker-portainer"]
+	path = docker-portainer
+	url = https://github.com/jeo1/docker-portainer.git
+[submodule "docker-sonarr"]
+	path = docker-sonarr
+	url = https://github.com/jeo1/docker-sonarr.git
+[submodule "docker-radarr"]
+	path = docker-radarr
+	url = https://github.com/jeo1/docker-radarr.git
+[submodule "docker-twitch-dvr"]
+	path = docker-twitch-dvr
+	url = https://github.com/jeo1/docker-twitch-dvr.git
